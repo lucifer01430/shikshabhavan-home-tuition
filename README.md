@@ -1,13 +1,11 @@
 # 🎓 Shikshabhavan Home Tuition – Website Prototype
 
 [![Status](https://img.shields.io/badge/Status-Prototype-orange)](#)
-[![Made%20With-HTML%2FCSS%2FJS-blue)](#-tech-stack)
-[![Responsive-Yes-success)](#-features)
 
 A modern, responsive website prototype for **Shikshabhavan Home Tuition**, designed to present coaching services, tutor highlights, and tuition options for students and parents.
 
 **Live Demo:**  
-https://harshpandey.github.io/shikshabhavan-home-tuition/
+https://lucifer01430.github.io/shikshabhavan-home-tuition/
 
 ---
 
@@ -67,41 +65,9 @@ shikshabhavan-home-tuition/
 ├── index.html
 ├── assets/
 │   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── icons/
+│   ├── js/   
 └── README.md
 ```
-
----
-
-## 🛠️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/harshpandey/shikshabhavan-home-tuition.git
-   ```
-2. Open the project folder:
-   ```bash
-   cd shikshabhavan-home-tuition
-   ```
-3. Run the site:
-   - Open `index.html` directly in your browser, or
-   - Use VS Code Live Server for a local development server.
-
----
-
-## 🌐 Deployment (GitHub Pages)
-
-To deploy on GitHub Pages:
-
-1. Push your code to a GitHub repository.
-2. Go to **Repository Settings → Pages**.
-3. Under **Source**, choose:
-   - Branch: `main`
-   - Folder: `/ (root)`
-4. Save and wait for deployment.
-5. Your site will be available on the GitHub Pages URL.
 
 ---
 
@@ -117,7 +83,7 @@ To deploy on GitHub Pages:
 ## 👨‍💻 About the Developer
 
 **Harsh Pandey**  
-Frontend-focused developer building practical and modern web interfaces.
+Frontend-focused Full Stack developer building practical and modern web interfaces.
 
 ---
 
